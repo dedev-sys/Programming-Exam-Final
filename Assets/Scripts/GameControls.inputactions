@@ -1,0 +1,34 @@
+{
+    "name": "GameControls",
+    "maps": [
+        {
+            "name": "PreGame",
+            "id": "5c865c2e-a060-4294-af60-681f73074a9f",
+            "actions": [
+                {
+                    "name": "Start",
+                    "type": "Button",
+                    "id": "2a132572-66a2-42b1-a0c9-22a768feb62e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "3efb9a03-59e6-40af-9bd0-29b79521275c",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Start",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
